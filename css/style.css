@@ -594,12 +594,12 @@ section img{width:100%;}
 .subimg_1{
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: linear-gradient( to right bottom, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(/img/header_sub01.jpg);
+    background-image: linear-gradient( to right bottom, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../img/header_sub01.jpg);
 }
 .subimg_2{
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: linear-gradient( to right bottom, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.0)), url(/img/header_sub02.jpg);
+    background-image: linear-gradient( to right bottom, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.0)), url(../img/header_sub02.jpg);
 }
 
 
@@ -636,12 +636,12 @@ section img{width:100%;}
 }
 
 .about_con_bg{
-    background-image: url(/img/bg_about.jpg);
+    background-image: url(../img/bg_about.jpg);
     background-size: cover;
     position: relative;
 }
 .sub2_con_bg{
-    background-image: url(/img/sub02_1.jpg);
+    background-image: url(../img/sub02_1.jpg);
     background-size: cover;
     position: relative;
     width: 50% !important;
@@ -988,28 +988,28 @@ section img{width:100%;}
 
 
 .popimg_1{
-    background-image: url(/img/pop1-1.png);
+    background-image: url(../img/pop1-1.png);
 }
 .popimg_2{
-    background-image: url(/img/pop1-2.png);
+    background-image: url(../img/pop1-2.png);
 }
 .popimg_3{
-    background-image: url(/img/pop1-3.png);
+    background-image: url(../img/pop1-3.png);
 }
 
 
 
 .popimg_2_1{
-    background-image: url(/img/pop2-1.png);
+    background-image: url(../img/pop2-1.png);
 }
 .popimg_2_2{
-    background-image: url(/img/pop2-2.png);
+    background-image: url(../img/pop2-2.png);
 }
 .popimg_2_3{
-    background-image: url(/img/pop2-3.png);
+    background-image: url(../img/pop2-3.png);
 }
 .popimg_2_4{
-    background-image: url(/img/pop2-4.png);
+    background-image: url(../img/pop2-4.png);
 }
 
 
